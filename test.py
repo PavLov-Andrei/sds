@@ -1,5 +1,3 @@
-#Stasya-Pupsik-Sladupsik
-
 # отключим всякие предупреждения Anaconda
 import warnings
 
